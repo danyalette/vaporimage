@@ -11,5 +11,5 @@ setup(name='vaporimage',
       install_requires=[
           'pillow',
           'django'
-      ]
+      ],
       zip_safe=False)
